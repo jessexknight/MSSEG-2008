@@ -7,7 +7,7 @@ Algorithms for MS lesion segmentation in brain MRI need training/testing data. I
 
 Here is an example:
 
-![e.g. Bad Manual CHB 01](docs/MSSEG2008-bad-manual-eg-CHB-01.png)
+![e.g. Bad Manual CHB 01](./docs/MSSEG2008-bad-manual-eg-CHB-01.png)
 
 FLAIR, Challenge Seg, Updated Seg
 

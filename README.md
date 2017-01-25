@@ -3,7 +3,7 @@
 Re-doing manual lesion segmentations for algorithm validation.
 
 ### Motivation
-Algorithms for MS lesion segmentation in brain MRI need training/testing data. It's hard to find. Many authors use the free database from [2008 MS Segmentation Challenge](apples.com). However, the challenge manuals are not very accurate. So, we're re-doing them.
+Algorithms for MS lesion segmentation in brain MRI need training/testing data. It's hard to find. Many authors use the free database from [2008 MS Segmentation Challenge](http://www.ia.unc.edu/MSseg/). However, the challenge manuals are not very accurate. So, we're re-doing them.
 
 Here is an example:
 
